@@ -5,6 +5,7 @@ public class Kunde {
 		// TODO Auto-generated method stub
 
 		System.out.println("WAHID");
+		System.out.println("Hallo");
 	}
 
 }
