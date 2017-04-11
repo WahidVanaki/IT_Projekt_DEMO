@@ -1,11 +1,13 @@
 
 public class Kunde {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+private long id = 0L;
 
-		System.out.println("WAHID");
-		System.out.println("Hallo");
+	public long getID(){
+		return this.id;
 	}
+	
+	
 
 }
